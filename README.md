@@ -9,7 +9,7 @@
 ### Project overview 
 ---
 
-This data Analysis project aims to provide insights into the slaes performance of a company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, data driven decisions, and gain a deeper understanding of the company performance.
+This data Analysis project aims to provide insights into the sales performance of a company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, data driven decisions, and gain a deeper understanding of the company performance.
 
 
 ![Screenshot (sales dashboard)](https://github.com/user-attachments/assets/a2a0afac-6faf-41f6-ac89-cb277d0c4214)
